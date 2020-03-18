@@ -1,0 +1,51 @@
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Debug\CuadroDialogo.baml
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Debug\MainWindow.baml
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Debug\CuadroDialogo.g.cs
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Debug\MainWindow.g.cs
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Debug\App.g.cs
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin_MarkupCompile.cache
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin.g.resources
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin.Properties.Resources.resources
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin.csproj.GenerateResource.Cache
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\bin\Debug\SaimonWin.exe
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\bin\Debug\SaimonWin.pdb
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin.exe
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin.pdb
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\bin\Debug\SaimonWin.exe
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\bin\Debug\SaimonWin.pdb
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\obj\x86\Debug\SaimonWin.csprojAssemblyReference.cache
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\obj\x86\Debug\CuadroDialogo.baml
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\obj\x86\Debug\MainWindow.baml
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\obj\x86\Debug\CuadroDialogo.g.cs
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\obj\x86\Debug\App.g.cs
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\obj\x86\Debug\SaimonWin_MarkupCompile.cache
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\obj\x86\Debug\SaimonWin.g.resources
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\obj\x86\Debug\SaimonWin.Properties.Resources.resources
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\obj\x86\Debug\SaimonWin.csproj.GenerateResource.cache
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\obj\x86\Debug\SaimonWin.exe
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\obj\x86\Debug\SaimonWin.pdb
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\bin\Debug\SaimonWin.exe.config
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\bin\Debug\SaimonWin.exe.manifest
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\bin\Debug\SaimonWin.application
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\obj\x86\Debug\SaimonWin.exe.manifest
+C:\Users\SeAxMAJ\Desktop\SaimonWin19\SaimonWin\obj\x86\Debug\SaimonWin.application
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\bin\Debug\SaimonWin.exe.config
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\bin\Debug\SaimonWin.exe.manifest
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\bin\Debug\SaimonWin.application
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\bin\Debug\SaimonWin.exe
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\bin\Debug\SaimonWin.pdb
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin.csprojAssemblyReference.cache
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\obj\x86\Debug\CuadroDialogo.baml
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\obj\x86\Debug\MainWindow.baml
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\obj\x86\Debug\CuadroDialogo.g.cs
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\obj\x86\Debug\App.g.cs
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin_MarkupCompile.cache
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin.g.resources
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin.Properties.Resources.resources
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin.csproj.GenerateResource.cache
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin.exe.manifest
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin.application
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin.exe
+C:\Users\SeAxMAJ\Desktop\UNIVERSIDAD\Interfaces Graficas de Usuario\SaimonWin\SaimonWin\obj\x86\Debug\SaimonWin.pdb

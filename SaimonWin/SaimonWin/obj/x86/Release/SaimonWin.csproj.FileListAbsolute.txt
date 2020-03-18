@@ -1,0 +1,13 @@
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\bin\Release\SaimonWin.exe
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\bin\Release\SaimonWin.pdb
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Release\CuadroDialogo.baml
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Release\MainWindow.baml
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Release\CuadroDialogo.g.cs
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Release\MainWindow.g.cs
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Release\App.g.cs
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Release\SaimonWin_MarkupCompile.cache
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Release\SaimonWin.g.resources
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Release\SaimonWin.Properties.Resources.resources
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Release\SaimonWin.csproj.GenerateResource.Cache
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Release\SaimonWin.exe
+c:\users\seaxmaj\documents\visual studio 2010\Projects\SaimonWin\SaimonWin\obj\x86\Release\SaimonWin.pdb
